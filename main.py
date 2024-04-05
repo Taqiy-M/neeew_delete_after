@@ -1,4 +1,5 @@
 class Time:
+    print("Salom bollar")
     def __init__(self, hour, minute, second):
         self.hour = hour
         self.minute = minute
